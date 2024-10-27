@@ -1,3 +1,5 @@
+Thank you for this usefull extension
+
 # cookies-backup-chrome
 
 <p align="center">
